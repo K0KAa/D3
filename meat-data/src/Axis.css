@@ -1,0 +1,16 @@
+.axis line{
+    stroke: #7C715E
+}
+
+.axis text {
+    fill: #7C715E
+}
+
+.marks{
+    fill: #137B80
+}
+
+.axisLabel{
+    font-size: 2em;
+    fill: #7C715E
+}
